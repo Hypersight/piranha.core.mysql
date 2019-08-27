@@ -25,6 +25,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\core\Piranha.AspNetCore.Identity.MySQL\bin\Release\netstandard2.0\Piranha.AspNetCore.Identity.MySQL.dll" target="lib\netstandard2.0\Piranha.AspNetCore.Identity.MySQL.dll" />
+    <file src="..\src\Piranha.AspNetCore.Identity.MySQL\bin\Release\netstandard2.0\Piranha.AspNetCore.Identity.MySQL.dll" target="lib\netstandard2.0\Piranha.AspNetCore.Identity.MySQL.dll" />
   </files>
 </package>
